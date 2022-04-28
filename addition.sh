@@ -10,3 +10,5 @@ echo $c;
 d=$((a+b));
 
 echo $d;
+
+echo $a+$b=$d;
